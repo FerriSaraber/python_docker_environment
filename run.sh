@@ -1,0 +1,1 @@
+docker run --rm=true -t -i -v `pwd`/app:/app my_python_app
